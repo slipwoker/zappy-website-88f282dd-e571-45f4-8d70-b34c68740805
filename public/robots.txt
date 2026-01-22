@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://tds-technology-driven-strategi.zappy5.app/sitemap.xml
