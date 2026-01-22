@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# TDS - Technology Driven Strategies — Generative Engine Optimization Map
+
+> A financial consulting business.
 
 ---
 
@@ -38,7 +40,15 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About TDS - Technology Driven Strategies
+TDS - Technology Driven Strategies is a business in the financial consulting industry.
+
+## Target Audience
+CFOs, COOs, and executive leaders
+
+## Industry
+financial consulting
+
 ---
 
 # Additional Resources
