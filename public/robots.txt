@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tds-technology-driven-strategies-88f282dd.zappy5.app/sitemap.xml

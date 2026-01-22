@@ -1,0 +1,57 @@
+# TDS - Technology Driven Strategies — Generative Engine Optimization Map
+
+> A financial consulting business.
+
+---
+
+## Pages
+
+### Home
+https://tds-technology-driven-strategies-88f282dd.zappy5.app
+Discover expert expense management consulting that delivers real results. Transform your financial strategy today with TDS.
+
+### Services
+https://tds-technology-driven-strategies-88f282dd.zappy5.app/services
+Professional expense reduction analysts global services tailored to executive needs. Comprehensive audits and strategic optimization for measurable results.
+
+### About
+https://tds-technology-driven-strategies-88f282dd.zappy5.app/about
+Learn about TDS - Technology Driven Strategies and our team of expense management consulting experts serving executive leaders worldwide.
+
+### Contact
+https://tds-technology-driven-strategies-88f282dd.zappy5.app/contact
+Contact TDS for expert expense management consulting. Schedule your consultation with our expense reduction analysts global team today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://tds-technology-driven-strategies-88f282dd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tds-technology-driven-strategies-88f282dd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tds-technology-driven-strategies-88f282dd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TDS - Technology Driven Strategies
+TDS - Technology Driven Strategies is a business in the financial consulting industry.
+
+## Target Audience
+CFOs, COOs, and executive leaders
+
+## Industry
+financial consulting
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://tds-technology-driven-strategies-88f282dd.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tds-technology-driven-strategies-88f282dd.zappy5.app/robots.txt
